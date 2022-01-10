@@ -21,34 +21,34 @@ https://github.com/chen0gao/Science-Sims-3D/blob/main/Tutorial.md
 
 # Demo
 ## Bouncing Ball
-Live Demo: 
+Live Demo: https://chen0gao.github.io/Science-Sims-3D/1%20bouncing-ball/ \
 Original simulation: https://sciencesims.com/sciencejsexamples/bouncing-ball-vector
 ![](https://github.com/chen0gao/Science-Sims-3D/blob/main/img/1%20Ball.gif?raw=true)
 
 ## Rotating Vector
-Live Demo: 
+Live Demo: https://chen0gao.github.io/Science-Sims-3D/2%20rotating-vector/ \
 Original simulation: https://sciencesims.com/sciencejsexamples/rotating-vector-2
 ![](https://github.com/chen0gao/Science-Sims-3D/blob/main/img/2%20Wheel.gif?raw=true)
 
 ## Rotating Wheel
-Live Demo: 
+Live Demo: https://chen0gao.github.io/Science-Sims-3D/3%20rotating-wheel/ \
 Original simulation: https://sciencesims.com/sciencejsexamples/rotating-wheel
 ![](https://github.com/chen0gao/Science-Sims-3D/blob/main/img/3%20Rotating%20Wheel.gif?raw=true)
 
 ## Pendulum Vector
-Live Demo: 
+Live Demo: https://chen0gao.github.io/Science-Sims-3D/4%20pedulum-vectors/ \
 Original simulation: https://sciencesims.com/sims/pendulum-vectors/
 ![](https://github.com/chen0gao/Science-Sims-3D/blob/main/img/4%20Pedulum%20Vectors.gif?raw=true)
 
 ## Conical Pendulum
-Live Demo: 
+Live Demo: https://chen0gao.github.io/Science-Sims-3D/5%20conical-pedulum/ \
 ![](https://github.com/chen0gao/Science-Sims-3D/blob/main/img/5%20Conical%20Pedulum.gif?raw=true)
 
 ## Kepler Second Law
-Live Demo: 
+Live Demo: https://chen0gao.github.io/Science-Sims-3D/6%20keplers-second-law/ \
 Original simulation: https://sciencesims.com/sims/keplers-second-law/
 ![](https://github.com/chen0gao/Science-Sims-3D/blob/main/img/6%20Keplers%20Second%20Law.gif?raw=true)
 
 ## Simple Solar System
-Live Demo: 
+Live Demo: https://chen0gao.github.io/Science-Sims-3D/7%20sample-solar-system/ \
 ![](https://github.com/chen0gao/Science-Sims-3D/blob/main/img/7%20Sample%20Solar%20System.gif?raw=true)
