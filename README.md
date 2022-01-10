@@ -3,7 +3,8 @@ The motivation of this project [Science-3d.js](https://github.com/chen0gao/Scien
 
 ## Table of Contents
 1. [Function List](#function-list)
-2. [Demo](#Demo)
+2. [Tutorial](#tutorial)
+3. [Demo](#demo)
    - [Bouncing Ball](#bouncing-ball)
    - [Rotating Vector](#rotating-vector)
    - [Rotating Wheel](#rotating-wheel)
@@ -14,6 +15,9 @@ The motivation of this project [Science-3d.js](https://github.com/chen0gao/Scien
 
 ## Function List
 Reference: https://github.com/chen0gao/Science-Sims-3D/blob/main/Reference.md
+
+## Tutorial
+https://github.com/chen0gao/Science-Sims-3D/blob/main/Tutorial.md
 
 # Demo
 ## Bouncing Ball
