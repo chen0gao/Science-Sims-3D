@@ -125,7 +125,7 @@ var wheel = function(_x,_y,_d){
         this.rim.material.opacity = this.rimColor.opacity
     }
 
-    if(this.wheelColor!=false && this.wheel.material.color!=this.wheelColor.color) {
+    if(this.wheelColor!=false && this.wheel.outline.material.color!=this.wheelColor.color) {
         this.wheel.fill.material.color = this.wheelColor.color
         this.wheel.fill.material.opacity = this.wheelColor.opacity
     }
