@@ -1,5 +1,5 @@
 This tutorial remade the simulation in https://sciencesims.com/tutorials/making-things-move \
-Demo of this tutorial: \
+Demo of this tutorial: https://chen0gao.github.io/Science-Sims-3D/tutorial/ \
 Source of this tutorial: https://github.com/chen0gao/Science-Sims-3D/blob/main/tutorial/sketch.js
 
 In p5js, [draw()](https://p5js.org/reference/#/p5/draw) function creates a new drawing in every frame, where all old drawings in the previous frame will be erased.\
